@@ -1,0 +1,29 @@
+:root {
+    --s1_h: 90vh;
+    --s234_h: 70vh;
+    --s5_h: 90vh;
+    --s6_h: 50vh;
+    --s7_h: 30vh;
+
+    --c_black_a: rgba(0, 0, 0, 0.6);
+    --c_black_a2: rgba(1, 32, 32, 0.5);
+
+
+    --c_red: #ffd8d1;
+    --c_yellow: #fef1bd;
+    --c_red_h: #ff7b68;
+    --c_yellow_h: #f7d305;
+
+    --c_blue: #72ceff;
+    --c_mint: #90d4c5;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 100vw;
+}
